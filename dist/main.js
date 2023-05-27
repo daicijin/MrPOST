@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){function e(e,t){this.name=e,this.age=t}e.prototype.sayHello=function(){console.log("Hello, ".concat(this.name))},e.prototype.sayAge=function(){console.log("My age is ".concat(this.age))}}(),PropertiesService.getScriptProperties().getProperty("TEST_ID")})();
